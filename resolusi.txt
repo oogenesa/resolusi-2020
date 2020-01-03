@@ -2,3 +2,4 @@ Websocket
 react js
 react native
 s2 luar negeri
+aws
